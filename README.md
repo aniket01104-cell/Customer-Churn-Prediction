@@ -1,14 +1,14 @@
 # 📊 Customer Churn Prediction Project
 
 ## 🚀 Project Overview
-This project predicts customer churn using machine learning and provides insights using SQL and Power BI.
+This is an End-to-end project which predicts customer churn using machine learning, analyzes patterns using SQL, visualizes insights in Power BI, and provides real-time predictions through an interactive Streamlit web app.
 
 The goal is to help businesses identify customers who are likely to leave and take proactive retention actions.
 
 ---
 
 ## 🎯 Objectives
-- Predict customer churn using ML model
+- Predict customer churn using ML models
 - Analyze churn patterns using SQL
 - Build dashboard using Power BI
 - Deploy model using Streamlit
@@ -65,6 +65,8 @@ Customer-Churn-Prediction/
 
 ## 🌐 Deployment
 Deployed using Streamlit Cloud.
+ link🔗:- https://customer-churn-prediction-beqssmhdpkmgocregbc7hr.streamlit.app/
+
 
 ---
 
